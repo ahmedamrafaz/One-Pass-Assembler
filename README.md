@@ -1,0 +1,1 @@
+A lightweight assembler that converts modi-SIC assembly code to machine code in a single pass. Designed for the Modified Simplified Instructional Computer architecture, it efficiently handles instruction translation and basic error checking. Ideal for educational use in computer architecture courses.
